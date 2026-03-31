@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "My name is Kendal, and I’m a junior in the College of Journalism at the University of Nebraska-Lincoln. I am a double major in Advertising & Public Relations and Sports Media. This is a blog about my sports data projects in my SPMC 350 class!"
+  },
+  {
+    "objectID": "posts/ncaa-volleyball-nebraska-2025-season/index.html",
+    "href": "posts/ncaa-volleyball-nebraska-2025-season/index.html",
+    "title": "Does Nebraska Volleyball Peak Too Early in the Season?",
+    "section": "",
+    "text": "Code\nlibrary(tidyverse)\n\n\nNebraska Volleyball went undefeated in the 2025 regular season, what happened in the NCAA tournament?\n\n\nCode\nnevolleyball &lt;- read.csv(\"data/nevolleyball2025.csv\")"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "project1blog",
+    "section": "",
+    "text": "Does Nebraska Volleyball Peak Too Early in the Season?\n\n\n\nncaa\n\nvolleyball\n\nnebraska\n\n\n\n\n\n\n\n\n\nApr 10, 2026\n\n\nKendal Hasemann\n\n\n\n\n\nNo matching items"
+  }
+]
