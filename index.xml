@@ -21,7 +21,7 @@
 
 
 
-<p>Is There Truly Such Thing as a Home Court Advantage? Let’s see if PBA actually gave the Huskers a one up against their opponents this past basketball season.</p>
+<p>Is There Truly Such Thing as a Home Court Advantage? Let’s see if Pinnacle Bank Arena actually gave the Huskers a one up against their opponents this past basketball season.</p>
 <p>Winning on the road is one of the hardest things to do in college basketball. Players face unfamiliar arenas, hostile crowds, and travel fatigue can quickly affect the way a team performs. For Nebraska during the 2025-2026 season, location mattered more than ever.</p>
 <p>The Huskers were a strong team overall, but their best basketball was consistently at home. Whether it was shooting efficiency, defensive pressure, or simply just out scoring their opponent. Nebraska looked sharper and stronger when playing at Pinnacle Bank Arena compared to anywhere else.</p>
 <div class="cell">
@@ -310,9 +310,9 @@ background-color: null;
 font-style: inherit;">"image.png"</span>)</span></code></pre></div></div>
 </details>
 </div>
-<p>The clearest sign of Nebraska’s home court advantage comes from its offense. The shooting graph shows that home games were clustered in strong scoring zones, with better field goal percentages and more three-pointers made than most road or neutral site performances. Several of the Huskers’ biggest offensive performances were in Lincoln, where they were able to combine efficient shooting with high point totals.</p>
-<p>On the other hand, road games were a little more scattered. Some performances were strong, but overall Nebraska’s shooting was less consistent away from home. Neutral site games were more in the middle, showing flashes of efficiency without the same reliability as home games. Their strong performance offensively most likely came from familiarity with their environment. Teams often shoot better in their own arena because of routine, crowd energy, and increased confidence. Nebraska’s data strongly suggests that was the case.</p>
-<p>But scoring efficiency was only part of the story. The Huskers also separated themselves from opponents more by playing more consistently when at home.</p>
+<p>The clearest sign of Nebraska’s home court advantage comes from its offense. The shooting graph shows that home games were clustered in strong scoring zones, with better field goal percentages and more three-pointers made than most road or neutral site performances. Several of the Huskers’ biggest offensive performances were in Lincoln, where they were able to combine efficient shooting with a greater amount of points scored.</p>
+<p>On the other hand, road games were a little more scattered. Some performances were strong, but overall Nebraska’s shooting was less consistent away from home. Neutral site games were more in the middle, still showing efficiency but without the same reliability as home games. Their strong performance offensively most likely came from familiarity with their environment. Teams often shoot better in their own arena because of routine, home crowd energy, and increased confidence. Nebraska’s data strongly suggests that was the case.</p>
+<p>But scoring efficiency was only part of the story. The Huskers also separated themselves from opponents more by playing more consistently when on their home court.</p>
 <div class="cell">
 <details class="code-fold">
 <summary>Code</summary>
@@ -514,7 +514,7 @@ font-style: inherit;">"plot"</span></span>
 </div>
 </div>
 <p>The second graph compares Nebraska’s points to opponent points for each game. In many match ups, the Huskers’ scoring mark sits above their opponents’. Those larger spreads often appeared during home games where Nebraska was able to control the tempo and create distance on the scoreboard.</p>
-<p>When Nebraska traveled, the margins were noticeably tighter. Several road games were close in score, with the Huskers needing late execution rather than early dominance. Even when they won on the road the scoring gap was smaller than many of their home victories.</p>
+<p>When Nebraska traveled, the margins were noticeably closer. Several road games were close in score, with the Huskers needing to fight tooth and nail at the end of games rather than asserting early dominance. Even when they won on the road the scoring gap was smaller than many of their home wins.</p>
 <p>This trend reinforces the idea that Nebraska didn’t just win more games at home, they won by bigger margins. And the final graph shows how that was possible.</p>
 <div class="cell">
 <details class="code-fold">
